@@ -1,2 +1,2 @@
-# test-remote-client
+# test-mcp-client
 This repo is for test MCP client.
